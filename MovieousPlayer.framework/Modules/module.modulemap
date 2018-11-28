@@ -1,0 +1,6 @@
+framework module MovieousPlayer {
+  umbrella header "MovieousPlayer.h"
+
+  export *
+  module * { export * }
+}

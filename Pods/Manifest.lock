@@ -1,0 +1,23 @@
+PODS:
+  - MovieousPlayer (1.0.0)
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - MovieousPlayer (from `./`)
+  - Reachability
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Reachability
+
+EXTERNAL SOURCES:
+  MovieousPlayer:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  MovieousPlayer: 0bb2c3b9fdf908d75db014888c3da0c2681614b3
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: 50542fab04c0bb70bbd0d1a4c516026056a9c08f
+
+COCOAPODS: 1.5.3
