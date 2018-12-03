@@ -67,5 +67,5 @@ UPlayer is  based on [ijkplayer](https://github.com/Bilibili/ijkplayer) , Thanks
 
 Please feedback the problem by submitting issues on GitHub's repo if any problems you got, describe it as clearly as possible, It would be nice if an error message or screenshot also came together, and pointed out the type of bug or other issues in Labels.
 
-[View existing issues and submit bugs here](https://github.com/movieous-team/Movieous-Docs/issues).
+[View existing issues and submit bugs here](https://github.com/movieous-team/MovieousPlayer-Cocoa-Release/issues).
 [Submit issue](https://github.com/movieous-team/MovieousPlayer-Cocoa-Release/issues/new)
