@@ -3,5 +3,5 @@ use_frameworks!
 
 target 'MovieousPlayerDemo' do
 	pod 'Reachability'
-	pod 'MovieousPlayer', :path => './'
+	pod 'MovieousPlayer', :path => '../'
 end

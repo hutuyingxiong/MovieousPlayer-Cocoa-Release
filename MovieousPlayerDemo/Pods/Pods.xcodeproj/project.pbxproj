@@ -32,16 +32,16 @@
 		088486A3651806EDE12C1F8BFCB53852 /* Pods-MovieousPlayerDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MovieousPlayerDemo.modulemap"; sourceTree = "<group>"; };
 		0903D0577EBF31CEE63A292DC434AD85 /* Pods_MovieousPlayerDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MovieousPlayerDemo.framework; path = "Pods-MovieousPlayerDemo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F32EFE21CEC8D24E442E2673B77D3F9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		146790D43DA21188F1CCFD1D2DBF9599 /* MovieousPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MovieousPlayer.framework; sourceTree = "<group>"; };
 		38251FACF473A6D64697BDCE731692CA /* Reachability.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Reachability.xcconfig; sourceTree = "<group>"; };
 		3DD301E107A606BB6F71C61FB2C93966 /* Pods-MovieousPlayerDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MovieousPlayerDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		3FC67DDF5C45B9FE66A2FF6A34411F1D /* MovieousPlayer.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = MovieousPlayer.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		563E4CBC952A094F8D845A7C64BD9880 /* Reachability.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Reachability.framework; path = Reachability.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5ADA441407FC9E92970585670C38E632 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		67111F6D9261C54E86D46673AA451F1F /* Pods-MovieousPlayerDemo-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MovieousPlayerDemo-resources.sh"; sourceTree = "<group>"; };
 		6985CF3C69F0CBED68BE2E955A31F555 /* Reachability-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Reachability-umbrella.h"; sourceTree = "<group>"; };
 		6D7B124588D7ADCECA85390A6F0E4353 /* Pods-MovieousPlayerDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MovieousPlayerDemo-acknowledgements.plist"; sourceTree = "<group>"; };
 		7A936234CB17B250090CB411E06DF362 /* Reachability.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
 		7CF389F8FDAEA88A257FEAD7616B5378 /* Pods-MovieousPlayerDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MovieousPlayerDemo-frameworks.sh"; sourceTree = "<group>"; };
-		8B11C0A1E306D20F89220F843573F848 /* MovieousPlayer.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = MovieousPlayer.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E52A59DF14AED4BD8B3A53E140A0C1B /* Reachability.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Reachability.modulemap; sourceTree = "<group>"; };
 		B0D649D360D2EE74FB1B074604CB9B3A /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/SystemConfiguration.framework; sourceTree = DEVELOPER_DIR; };
@@ -50,6 +50,7 @@
 		CF3782575BDC1B18A901C9D8361DEE49 /* Reachability-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Reachability-prefix.pch"; sourceTree = "<group>"; };
 		CFAC02EF55E1526F170D803D88EA7DF2 /* Pods-MovieousPlayerDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MovieousPlayerDemo-dummy.m"; sourceTree = "<group>"; };
 		D34F4CDC64DC5D3F5FC1CD5E4F71579B /* Reachability.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		D6B2C00DC52E4E851A791399DCC4951D /* MovieousPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MovieousPlayer.framework; sourceTree = "<group>"; };
 		E394AB8407FAA21D2AA86E52E40D7AF5 /* Pods-MovieousPlayerDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MovieousPlayerDemo.release.xcconfig"; sourceTree = "<group>"; };
 		E4A3BC304781B34E4A0F99D2D1A611B5 /* Pods-MovieousPlayerDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MovieousPlayerDemo-umbrella.h"; sourceTree = "<group>"; };
 		FB61D3CAF1507839B05EA889FBEB79ED /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -77,6 +78,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0C5C8F265795823E942934D2219300E8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D6B2C00DC52E4E851A791399DCC4951D /* MovieousPlayer.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -100,20 +109,12 @@
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				982C4B4F421E88306DA3DF736D80FB48 /* Development Pods */,
+				EE85D906C0475CEE1BDABC5162FD2A2B /* Development Pods */,
 				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
 				D02F67554E14C3100F274620CC9E3885 /* Pods */,
 				BFEA8A9A727AB45B2C2550C7851E4B9D /* Products */,
 				A53D0357B69ABC46077DF1D00DE98158 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		982C4B4F421E88306DA3DF736D80FB48 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				C05FD66B4D988E769D530369BCC46B5B /* MovieousPlayer */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		A53D0357B69ABC46077DF1D00DE98158 /* Targets Support Files */ = {
@@ -124,14 +125,6 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		BF85234E24C66998A16FE59257E8BCB4 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				8B11C0A1E306D20F89220F843573F848 /* MovieousPlayer.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		BFEA8A9A727AB45B2C2550C7851E4B9D /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -139,16 +132,6 @@
 				563E4CBC952A094F8D845A7C64BD9880 /* Reachability.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		C05FD66B4D988E769D530369BCC46B5B /* MovieousPlayer */ = {
-			isa = PBXGroup;
-			children = (
-				DAD5E9407DA89A342FCE1E67A6A2D50B /* Frameworks */,
-				BF85234E24C66998A16FE59257E8BCB4 /* Pod */,
-			);
-			name = MovieousPlayer;
-			path = ..;
 			sourceTree = "<group>";
 		};
 		C07278407958B4D5379BA0AAA29751D5 /* Pods-MovieousPlayerDemo */ = {
@@ -169,6 +152,16 @@
 			path = "Target Support Files/Pods-MovieousPlayerDemo";
 			sourceTree = "<group>";
 		};
+		C387E256944F42CDC6E7E68C5DD6FBD8 /* MovieousPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				0C5C8F265795823E942934D2219300E8 /* Frameworks */,
+				D84F9882D7832B7216B73B0C5C060EAE /* Pod */,
+			);
+			name = MovieousPlayer;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		CBA67BC332D8D9159ADDB94BE3DA4568 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -186,12 +179,13 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		DAD5E9407DA89A342FCE1E67A6A2D50B /* Frameworks */ = {
+		D84F9882D7832B7216B73B0C5C060EAE /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				146790D43DA21188F1CCFD1D2DBF9599 /* MovieousPlayer.framework */,
+				3FC67DDF5C45B9FE66A2FF6A34411F1D /* MovieousPlayer.podspec */,
+				5ADA441407FC9E92970585670C38E632 /* README.md */,
 			);
-			name = Frameworks;
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		E5BB5E9CE06300C8B15FED643A8C522B /* Support Files */ = {
@@ -206,6 +200,14 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/Reachability";
+			sourceTree = "<group>";
+		};
+		EE85D906C0475CEE1BDABC5162FD2A2B /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C387E256944F42CDC6E7E68C5DD6FBD8 /* MovieousPlayer */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

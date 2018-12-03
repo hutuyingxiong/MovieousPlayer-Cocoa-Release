@@ -3,7 +3,7 @@ PODS:
   - Reachability (3.2)
 
 DEPENDENCIES:
-  - MovieousPlayer (from `./`)
+  - MovieousPlayer (from `../`)
   - Reachability
 
 SPEC REPOS:
@@ -12,12 +12,12 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   MovieousPlayer:
-    :path: "./"
+    :path: "../"
 
 SPEC CHECKSUMS:
   MovieousPlayer: 0bb2c3b9fdf908d75db014888c3da0c2681614b3
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
 
-PODFILE CHECKSUM: 50542fab04c0bb70bbd0d1a4c516026056a9c08f
+PODFILE CHECKSUM: 3df3ff29bda08d32a6004d3632b6230c2e9a905b
 
 COCOAPODS: 1.5.3
