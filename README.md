@@ -61,7 +61,7 @@ The documentation: [MovieousPlayer Development Guide](https://developer.movieous
 
 ## Description
 
-UPlayer is  based on [ijkplayer](https://github.com/Bilibili/ijkplayer) , Thanks for [ijkplayer](https://github.com/Bilibili/ijkplayer)
+MovieousPlayer is  based on [ijkplayer](https://github.com/Bilibili/ijkplayer) , Thanks for [ijkplayer](https://github.com/Bilibili/ijkplayer)
 
 ## Feedback and Suggestions
 
