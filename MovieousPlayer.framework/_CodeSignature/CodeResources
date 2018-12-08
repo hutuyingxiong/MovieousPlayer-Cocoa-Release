@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/MovieousPlayerController.h</key>
 		<data>
-		LC42p5RoZlsHV1prC3gQYYRsvWA=
+		ctP1Pi1v0kWrp4Ct9xH2F5W3IPI=
 		</data>
 		<key>Headers/MovieousPlayerOptions.h</key>
 		<data>
-		zICkW+31RT0Iyg1IcAaYq0Ro8f8=
+		2CPi1wYJ4zlZCW6jAu53UfkCPK8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jl4iMXZaClxYp2WLj3LW3LmpSzs=
+		+WRd8esGe95fhrHhM3fLa62r6nw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,22 +42,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LC42p5RoZlsHV1prC3gQYYRsvWA=
+			ctP1Pi1v0kWrp4Ct9xH2F5W3IPI=
 			</data>
 			<key>hash2</key>
 			<data>
-			lUDPE0CpxUE82hmFRKwhlb8+5yDlDCD8CVu4keC6XXE=
+			fsyK1w9AmH7ZGbvU8kAq1k6BLFlGT9qLZmXbAOPnUqo=
 			</data>
 		</dict>
 		<key>Headers/MovieousPlayerOptions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zICkW+31RT0Iyg1IcAaYq0Ro8f8=
+			2CPi1wYJ4zlZCW6jAu53UfkCPK8=
 			</data>
 			<key>hash2</key>
 			<data>
-			CVQH696IT15nTKViJ9GO0zp4hYMawfcwXvDAIVybhlE=
+			rLsMJ30j4b5uI597PeUYHmv3LNh4XEsaZr61uilN5Zc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

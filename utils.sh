@@ -3,7 +3,9 @@ case "$COMMAND" in
     'sync-version')
         version=`/usr/libexec/PlistBuddy -c "Print CFBundleShortVersionString" MovieousPlayer.framework/Info.plist`
         agvtool new-marketing-version $version
+        cd MovieousPlayerDemo
         pod update --no-repo-update
+        cd ..
         git add .
         git commit -m "release v$version"
         git tag "v$version"
