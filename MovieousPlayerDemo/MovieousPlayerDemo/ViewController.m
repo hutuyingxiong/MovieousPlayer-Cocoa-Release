@@ -43,9 +43,8 @@ MovieousPlayerControllerDelegate
     MovieousPlayerController.logLevel = MPLogLevelError;
 #endif
     _URLList = [NSMutableArray arrayWithObjects:
-                [[NSBundle mainBundle] URLForResource:@"VRDemo" withExtension:@"m4v"],
-                [NSURL URLWithString:@"rtmp://rtmp.play.fh6b.cn/play/28758982"],
                 [NSURL URLWithString:@"http://stream1.hnntv.cn/lywsgq/sd/live.m3u8"],
+                [[NSBundle mainBundle] URLForResource:@"VRDemo" withExtension:@"m4v"],
                 nil];
     _currentURLIndex = 0;
     _currentURLLabel.text = _URLList[_currentURLIndex].absoluteString;
@@ -88,9 +87,9 @@ MovieousPlayerControllerDelegate
     _player.scalingMode = MPScalingModeAspectFit;
     _player.delegate = self;
     _player.interruptInBackground = NO;
-    _player.VRMode = YES;
-    _player.gyroscopeEnabled = YES;
-    _player.touchToMoveEnabled = YES;
+//    _player.VRMode = YES;
+//    _player.gyroscopeEnabled = YES;
+//    _player.touchToMoveEnabled = YES;
     _player.interruptionOperation = MPInterruptionOperationStop;
     _player.playerView.translatesAutoresizingMaskIntoConstraints = NO;
     [self.view insertSubview:_player.playerView atIndex:0];

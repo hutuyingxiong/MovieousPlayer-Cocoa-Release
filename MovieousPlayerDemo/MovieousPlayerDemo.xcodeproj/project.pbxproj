@@ -15,6 +15,7 @@
 		8391BC7621227779004E6360 /* MovieousPlayerDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8391BC7521227779004E6360 /* MovieousPlayerDemoTests.m */; };
 		8391BC8121227779004E6360 /* MovieousPlayerDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8391BC8021227779004E6360 /* MovieousPlayerDemoUITests.m */; };
 		83B62FAB2175EF8700F5B340 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8391BC6021227779004E6360 /* ViewController.m */; };
+		83C1037621BBFCB700790E4B /* VRDemo.m4v in Resources */ = {isa = PBXBuildFile; fileRef = 8368ACD7217EEB17007C9482 /* VRDemo.m4v */; };
 		D70DF4C7DF03C94C72FEB510 /* Pods_MovieousPlayerDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E7720278CAA092A9BE7438C /* Pods_MovieousPlayerDemo.framework */; };
 /* End PBXBuildFile section */
 
@@ -272,6 +273,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83C1037621BBFCB700790E4B /* VRDemo.m4v in Resources */,
 				8391BC6921227779004E6360 /* LaunchScreen.storyboard in Resources */,
 				8391BC6621227779004E6360 /* Assets.xcassets in Resources */,
 				8391BC6421227779004E6360 /* Main.storyboard in Resources */,
